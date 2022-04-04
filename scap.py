@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-url = "D:\web scaper assisgnment\Task\Kempinski Hotel Bristol Berlin, Germany - Booking.com (1).html"
+url = "Kempinski Hotel Bristol Berlin, Germany - Booking.com (1).html"
 
 page = open(url, encoding="utf8")
 
