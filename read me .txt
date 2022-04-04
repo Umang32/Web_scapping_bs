@@ -1,0 +1,1 @@
+Every block of colour block has been divided into fuctions. For example The data contained in the red Block will extratced n Red function
