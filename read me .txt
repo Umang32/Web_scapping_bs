@@ -2,6 +2,7 @@
 
 - Kindly Do not change File names
 - Kindly Run Scap.py File
+- Classification / stars (red) is missig in the file, as it was not visible in the .html file. I have shared a screenshot 'Classification stars red.JPG' for reference
 - About the Code -
 
 Every block of colour as shown 'task 1 - screencapture-www-booking-com.png' has been divided into functions. For example, The data contained in the red Block will be extracted in the Red function.
