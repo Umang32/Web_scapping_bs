@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import json
 
 url = "Kempinski Hotel Bristol Berlin, Germany - Booking.com (1).html"
 
@@ -107,3 +108,7 @@ answer = {
 }
 
 print(answer)
+
+
+with open('answer.txt', 'w') as outfile:
+    json.dump(answer, outfile)
