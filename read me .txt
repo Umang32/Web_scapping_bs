@@ -1,1 +1,11 @@
-Every block of colour block has been divided into fuctions. For example The data contained in the red Block will extratced n Red function
+********IMPORTANT**********
+
+- Kindly Do not change File names
+- Kindly Run Scap.py File
+- About the Code -
+
+Every block of colour as shown 'task 1 - screencapture-www-booking-com.png' has been divided into functions. For example, The data contained in the red Block will be extracted in the Red function.
+The Answer is 'answer.txt' JSON which is the final output.
+
+The unit Testing has not been done, as I do not have experience with it. I am keen on learning it and within the next few weeks, I hope to learn it and reach a new level as a tester.
+
